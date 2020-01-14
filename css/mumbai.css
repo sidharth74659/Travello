@@ -1,0 +1,73 @@
+
+element.style {
+    touch-action: manipulation;
+    -ms-touch-action: manipulation;
+}
+@media only screen and (min-width: 480px)
+body {
+    font-size: 12px;
+}
+body, html {
+    height: 100%;
+}
+body {
+    direction: ltr;
+    font-size: 11px;
+}
+body {
+    margin: 0;
+}
+body, html {
+    max-width: 100%;
+    min-width: 320px;
+}
+*, :after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
+html {
+    -webkit-tap-highlight-color: transparent;
+    -webkit-text-size-adjust: none;
+}
+html {
+    font-family: Arial,Helvetica,Sans,Sans-Serif,Sans Serif;
+    font-size: 100%;
+    line-height: 1.25;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+button, html, input, select, textarea {
+    color: #37454d;
+}
+html {
+    line-height: 1.15;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+user agent stylesheet
+html {
+    color: -internal-root-color;
+}
+*, :after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+*, :after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
